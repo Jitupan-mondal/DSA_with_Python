@@ -10,8 +10,6 @@ arr_list.sort()
 sorted_arr = sorted(arr_list)
 print(sorted_arr)
 
-
-
 # Q2. Give a list of hetrogenous elemnets write a python script to remove all the non int value from list ?
 
 list_het = (1, 5, 12, 34, 'Ravikant', 3534, 'Raju', 637, 'Rahul', 12.5, 35.9)
