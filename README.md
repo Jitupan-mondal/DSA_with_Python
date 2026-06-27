@@ -4,7 +4,7 @@
 
 Build a strong foundation in Data Structures and Algorithms using Python.
 
-Target:
+### Target:
 
 - Complete MySirG DSA Course (50 Lectures + 28 Assignments)
 - Become comfortable implementing common data structures from scratch
